@@ -1,6 +1,6 @@
 handlers.sendEmail = function (args, context) {
     var emailRequest = {
-        EmailAddress: "sheikhhammadrizwan@gmail.com",
+        EmailAddress: "temp1@ufdstudios.com",
         Subject: "Unity Game Notification",
         Body: "This is a test email sent from your Unity game.",
         TitleId: context.titleId
